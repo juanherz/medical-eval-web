@@ -1,0 +1,141 @@
+{
+  "auth": {
+    "medicalevalc509d192": {
+      "customAuth": false,
+      "dependsOn": [],
+      "providerPlugin": "awscloudformation",
+      "service": "Cognito",
+      "serviceType": "imported"
+    }
+  },
+  "parameters": {
+    "AMPLIFY_auth_medicaleval54c78005_nativeClientId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "medicaleval54c78005"
+        }
+      ]
+    },
+    "AMPLIFY_auth_medicaleval54c78005_userPoolId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "medicaleval54c78005"
+        }
+      ]
+    },
+    "AMPLIFY_auth_medicaleval54c78005_userPoolName": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "medicaleval54c78005"
+        }
+      ]
+    },
+    "AMPLIFY_auth_medicaleval54c78005_webClientId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "medicaleval54c78005"
+        }
+      ]
+    },
+    "AMPLIFY_auth_medicaleval5510fb25_nativeClientId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "medicaleval5510fb25"
+        }
+      ]
+    },
+    "AMPLIFY_auth_medicaleval5510fb25_userPoolId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "medicaleval5510fb25"
+        }
+      ]
+    },
+    "AMPLIFY_auth_medicaleval5510fb25_userPoolName": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "medicaleval5510fb25"
+        }
+      ]
+    },
+    "AMPLIFY_auth_medicaleval5510fb25_webClientId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "medicaleval5510fb25"
+        }
+      ]
+    },
+    "AMPLIFY_auth_medicalevalc509d192_nativeClientId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "medicalevalc509d192"
+        }
+      ]
+    },
+    "AMPLIFY_auth_medicalevalc509d192_userPoolId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "medicalevalc509d192"
+        }
+      ]
+    },
+    "AMPLIFY_auth_medicalevalc509d192_userPoolName": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "medicalevalc509d192"
+        }
+      ]
+    },
+    "AMPLIFY_auth_medicalevalc509d192_webClientId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "medicalevalc509d192"
+        }
+      ]
+    },
+    "AMPLIFY_auth_medicalevale550452e_nativeClientId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "medicalevale550452e"
+        }
+      ]
+    },
+    "AMPLIFY_auth_medicalevale550452e_userPoolId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "medicalevale550452e"
+        }
+      ]
+    },
+    "AMPLIFY_auth_medicalevale550452e_userPoolName": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "medicalevale550452e"
+        }
+      ]
+    },
+    "AMPLIFY_auth_medicalevale550452e_webClientId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "medicalevale550452e"
+        }
+      ]
+    }
+  }
+}

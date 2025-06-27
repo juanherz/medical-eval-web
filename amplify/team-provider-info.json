@@ -1,0 +1,43 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-medicaleval-dev-3f422-authRole",
+      "UnauthRoleArn": "arn:aws:iam::000225357656:role/amplify-medicaleval-dev-3f422-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::000225357656:role/amplify-medicaleval-dev-3f422-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-medicaleval-dev-3f422-deployment",
+      "UnauthRoleName": "amplify-medicaleval-dev-3f422-unauthRole",
+      "StackName": "amplify-medicaleval-dev-3f422",
+      "StackId": "arn:aws:cloudformation:us-east-1:000225357656:stack/amplify-medicaleval-dev-3f422/91906040-5307-11f0-9875-12f009f7eced",
+      "AmplifyAppId": "d278heyivoovnn"
+    },
+    "categories": {
+      "auth": {
+        "medicaleval54c78005": {
+          "userPoolId": "us-east-1_iPYHaN528",
+          "userPoolName": "MedicalEvalUserPool",
+          "webClientId": "22aiombu5lbed7n78qdap6jp9t",
+          "nativeClientId": "22aiombu5lbed7n78qdap6jp9t"
+        },
+        "medicalevale550452e": {
+          "userPoolId": "us-east-1_iPYHaN528",
+          "userPoolName": "MedicalEvalUserPool",
+          "webClientId": "22aiombu5lbed7n78qdap6jp9t",
+          "nativeClientId": "22aiombu5lbed7n78qdap6jp9t"
+        },
+        "medicaleval5510fb25": {
+          "userPoolId": "us-east-1_iPYHaN528",
+          "userPoolName": "MedicalEvalUserPool",
+          "webClientId": "22aiombu5lbed7n78qdap6jp9t",
+          "nativeClientId": "22aiombu5lbed7n78qdap6jp9t"
+        },
+        "medicalevalc509d192": {
+          "userPoolId": "us-east-1_iPYHaN528",
+          "userPoolName": "MedicalEvalUserPool",
+          "webClientId": "22aiombu5lbed7n78qdap6jp9t",
+          "nativeClientId": "22aiombu5lbed7n78qdap6jp9t"
+        }
+      }
+    }
+  }
+}
